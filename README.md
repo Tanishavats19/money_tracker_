@@ -1,3 +1,9 @@
+# About the project
+This is a simple money tracker app which will help a user to track their expenses and savings and reflect their balance.
+
+# Tech Stack Used
+React, Express
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
